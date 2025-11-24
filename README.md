@@ -41,6 +41,6 @@ The application should now be accessible at http://localhost:3000 (or the approp
 👤 Contact
 Feel free to connect with me!
 
-[HASAN MAHMOOD] - [Your Website/LinkedIn]
+[HASAN MAHMOOD] - https://hasanmahmood4u.github.io/newPortfolio/
 
 Project Link: https://hasanmahmood4u.github.io/newPortfolio/
