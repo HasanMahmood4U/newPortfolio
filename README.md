@@ -24,7 +24,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/newPortfolio.git
+git clone (https://hasanmahmood4u.github.io/newPortfolio/)
 cd newPortfolio
 Install dependencies:
 
@@ -43,4 +43,4 @@ Feel free to connect with me!
 
 [HASAN MAHMOOD] - [Your Website/LinkedIn]
 
-Project Link: https://github.com/your-username/newPortfolio
+Project Link: https://hasanmahmood4u.github.io/newPortfolio/
